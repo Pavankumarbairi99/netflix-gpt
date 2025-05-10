@@ -1,9 +1,9 @@
 import './App.css';
-
+import Body from './Body';
 function App() {
   return (
     <div className="App">
-     <h1 className='text-xl font-bold text-center my-5 text-red-700'>Hello Namaste Reactjs</h1>
+      <Body />
     </div>
   );
 }
