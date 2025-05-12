@@ -1,14 +1,18 @@
 .bg-login {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.717), rgba(0, 0, 0, 0.658)), url("https://assets.nflxext.com/ffe/siteui/vlv3/cb17c41d-6a67-4472-8b91-cca977e65276/web/IN-en-20250505-TRIFECTA-perspective_03ae1a85-5dcf-4d20-a8a6-1e61f7ef73cb_small.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.521), rgba(0, 0, 0, 0.452)), url("https://assets.nflxext.com/ffe/siteui/vlv3/cb17c41d-6a67-4472-8b91-cca977e65276/web/IN-en-20250505-TRIFECTA-perspective_03ae1a85-5dcf-4d20-a8a6-1e61f7ef73cb_small.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 100vh;
+    width: 100%;
 }
 
 .logo {
     height: 80px;
     width: 160px;
+}
+
+.login-head {
+    font-size: 24px;
 }
 
 .bg-form {
